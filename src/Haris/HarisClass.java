@@ -6,5 +6,6 @@ public class HarisClass {
         System.out.println("haris");
         System.out.println("omid");
         System.out.println("sima");
+        System.out.println("bashir");
     }
 }
